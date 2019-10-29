@@ -37,6 +37,7 @@ static const device_t devices[] = {
     {"beryllium", "Pocophone F1"},
     {"dipper", "Xiaomi Mi 8"},
     {"sirius", "Xiaomi Mi 8 SE"},
+    {"pyxis", "Xiaomi Mi 9 Lite"}, 
     {"equuleus", "Xiaomi Mi 8 Pro"},
     {"perseus", "Xiaomi Mi MIX 3"},
     {"polaris", "Xiaomi Mi MIX 2S"},
